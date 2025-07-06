@@ -128,4 +128,4 @@ Pull requests are welcome! Please follow the included PR template.
 
 ## 📄 License
 
-MIT © [hopehard-trainer](https://github.com/your-username)
+MIT © [hopehard-trainer](https://github.com/hopehard-trainer)
